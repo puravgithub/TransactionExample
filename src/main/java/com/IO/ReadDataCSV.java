@@ -1,5 +1,5 @@
 package com.IO;
-//adding to Git
+//Adding to github
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
